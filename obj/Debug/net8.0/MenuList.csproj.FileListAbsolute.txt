@@ -1,0 +1,14 @@
+F:\SINKTANK\MenuList\bin\Debug\net8.0\MenuList.exe
+F:\SINKTANK\MenuList\bin\Debug\net8.0\MenuList.deps.json
+F:\SINKTANK\MenuList\bin\Debug\net8.0\MenuList.runtimeconfig.json
+F:\SINKTANK\MenuList\bin\Debug\net8.0\MenuList.dll
+F:\SINKTANK\MenuList\bin\Debug\net8.0\MenuList.pdb
+F:\SINKTANK\MenuList\obj\Debug\net8.0\MenuList.GeneratedMSBuildEditorConfig.editorconfig
+F:\SINKTANK\MenuList\obj\Debug\net8.0\MenuList.AssemblyInfoInputs.cache
+F:\SINKTANK\MenuList\obj\Debug\net8.0\MenuList.AssemblyInfo.cs
+F:\SINKTANK\MenuList\obj\Debug\net8.0\MenuList.csproj.CoreCompileInputs.cache
+F:\SINKTANK\MenuList\obj\Debug\net8.0\MenuList.dll
+F:\SINKTANK\MenuList\obj\Debug\net8.0\refint\MenuList.dll
+F:\SINKTANK\MenuList\obj\Debug\net8.0\MenuList.pdb
+F:\SINKTANK\MenuList\obj\Debug\net8.0\MenuList.genruntimeconfig.cache
+F:\SINKTANK\MenuList\obj\Debug\net8.0\ref\MenuList.dll
